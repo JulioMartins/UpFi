@@ -2,7 +2,7 @@
 
 ```bash
 # Clone o Repositório
-https://github.com/JulioMartins/UpFi
+https://github.com/JulioMartins/UpFi.git
 
 ```bash
 # Baixe as dependendências

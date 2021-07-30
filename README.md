@@ -10,6 +10,6 @@ yarn
 
 ```bash
 # Execute o projeto
-yarn start
+yarn dev
 
 Para conferir o resultado basta acessar: <http://localhost:3000>
